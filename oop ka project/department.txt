@@ -1,0 +1,12 @@
+Computer Science
+2
+CC123
+OOP-F
+CC123
+OOP-E
+Electrical Engineering
+2
+EE123
+DLD-F
+EE123
+DLD-E

@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\DELL\source\repos\oop ka project\oop ka project\main.cpp(623,9): warning C4101: 'a': unreferenced local variable
+C:\Users\DELL\source\repos\oop ka project\oop ka project\main.cpp(1458,7): warning C4101: 'login': unreferenced local variable
+C:\Users\DELL\source\repos\oop ka project\oop ka project\main.cpp(1086): warning C4715: 'University::getNoOfCourses': not all control paths return a value
+C:\Users\DELL\source\repos\oop ka project\oop ka project\main.cpp(1061): warning C4715: 'University::assignCourseToTeacher': not all control paths return a value
+C:\Users\DELL\source\repos\oop ka project\oop ka project\main.cpp(1146): warning C4715: 'University::getITmanager': not all control paths return a value
+C:\Users\DELL\source\repos\oop ka project\oop ka project\main.cpp(1135): warning C4715: 'University::getTeacher': not all control paths return a value
+C:\Users\DELL\source\repos\oop ka project\oop ka project\main.cpp(1157): warning C4715: 'University::getStudent': not all control paths return a value
+C:\Users\DELL\source\repos\oop ka project\oop ka project\main.cpp(1194): warning C4715: 'University::getStudentDept': not all control paths return a value
+C:\Users\DELL\source\repos\oop ka project\oop ka project\main.cpp(630): warning C4715: 'Department::assignCourseToTeacher': not all control paths return a value
+C:\Users\DELL\source\repos\oop ka project\oop ka project\main.cpp(703): warning C4715: 'Department::getTeacher': not all control paths return a value
+C:\Users\DELL\source\repos\oop ka project\oop ka project\main.cpp(734): warning C4715: 'Department::getStudent': not all control paths return a value
+  oop ka project.vcxproj -> C:\Users\DELL\source\repos\oop ka project\Debug\oop ka project.exe

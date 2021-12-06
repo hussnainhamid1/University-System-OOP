@@ -1,0 +1,26 @@
+Computer Science
+3
+4
+hussnain hamid
+2
+OOP-F
+OOP-E
+5
+usman ghani
+0
+6
+abdullah hamid
+0
+Electrical Engineering
+3
+1
+hussnain hamid
+1
+DLD-F
+2
+usman ghani
+1
+DLD-E
+3
+abdullah hamid
+0
